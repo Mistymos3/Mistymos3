@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mistymos3
+- 👋 Hi, I’m @Iva
 - 👀 I’m interested in 
 - 🌱 I’m currently learning HTML CSS Javascript React Node.js
 - 💞️ I’m looking to collaborate on ...
