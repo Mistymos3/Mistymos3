@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iva
 - 👀 I’m interested in 
-- 🌱 I’m currently learning HTML CSS Javascript React Node.js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
